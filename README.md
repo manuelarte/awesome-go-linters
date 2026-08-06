@@ -18,5 +18,5 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 - [testcomments](https://github.com/manuelarte/testcomments): ![Static Badge][golangci-plugin] Go Linter that follows standards described in [TestComments](https://go.dev/wiki/TestComments).
 
 [golangci-lint]: https://golangci-lint.run
-[golangci-plugin]: ![Static Badge](https://img.shields.io/badge/golangci-plugin-blue)
+[golangci-plugin]: https://img.shields.io/badge/golangci-plugin-blue
 
