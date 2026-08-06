@@ -14,7 +14,7 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 
 ## Testing
 
-- [go-triple-a-lint](https://github.com/survivorbat/go-triplea-lint): This linter aims to enforce the use of `Arrange/Act/Assert` or `Given/When/Then` comments in tests.
+- [go-triple-a-lint](https://github.com/survivorbat/go-triplea-lint): ![Static Badge][golangci-plugin] This linter aims to enforce the use of `Arrange/Act/Assert` or `Given/When/Then` comments in tests.
 - [testcomments](https://github.com/manuelarte/testcomments): ![Static Badge][golangci-plugin] Go Linter that follows standards described in [TestComments](https://go.dev/wiki/TestComments).
 
 [golangci-lint]: https://golangci-lint.run
