@@ -14,6 +14,7 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 
 <!-- keep-sorted start -->
 - [abhinav/requiredfield](https://github.com/abhinav/requiredfield): Go linter that checks for required fields in structs.
+- [ccoVeille/usebacktick](https://github.com/ccoVeille/usebacktick): ![Static Badge][golangci-plugin] Go analyzer that reports string literals that can be simplified with raw string literals (backticks).
 - [manuelarte/godddlint](https://github.com/manuelarte/godddlint): ![Static Badge][golangci-plugin] Go Linter 🧐 that checks domain structs honor best practices.
 - [manuelarte/structinit](https://github.com/manuelarte/structinit): ![Static Badge][golangci-plugin] Go Linter 🧐 to ensure struct's field initialisation order matches struct's field declaration.
 <!-- keep-sorted end -->
@@ -29,4 +30,3 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 [golangci-lint]: https://golangci-lint.run
 [golangci-plugin]: https://img.shields.io/badge/golangci-plugin-blue
 <!-- keep-sorted end -->
-
