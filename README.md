@@ -1,5 +1,7 @@
 # awesome-go-linters
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This is a list of Go linters not available in [golangci-lint] but that can be useful to add to your projects.
 
 ## Architecture
