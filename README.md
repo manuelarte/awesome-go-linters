@@ -17,6 +17,7 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 - [ccoVeille/usebacktick](https://github.com/ccoVeille/usebacktick): ![Static Badge][golangci-plugin] Go analyzer that reports string literals that can be simplified with raw string literals (backticks).
 - [manuelarte/godddlint](https://github.com/manuelarte/godddlint): ![Static Badge][golangci-plugin] Go Linter 🧐 that checks domain structs honor best practices.
 - [manuelarte/structinit](https://github.com/manuelarte/structinit): ![Static Badge][golangci-plugin] Go Linter 🧐 to ensure struct's field initialisation order matches struct's field declaration.
+- [YuitoSato/gocapsule](https://github.com/YuitoSato/gocapsule): ![Static Badge][golangci-plugin] A Go linter that enforces encapsulation by preventing direct struct creation and field reassignment when `New` constructors exist.
 <!-- keep-sorted end -->
 
 ## Testing
