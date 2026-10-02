@@ -27,6 +27,10 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 - [survivorbat/go-triple-a-lint](https://github.com/survivorbat/go-triplea-lint): ![Static Badge][golangci-plugin] This linter aims to enforce the use of `Arrange/Act/Assert` or `Given/When/Then` comments in tests.
 <!-- keep-sorted end -->
 
+## Potential Errors
+
+- [go-by-value/deadmut](https://github.com/go-by-value/deadmut): ![Static Badge][golangci-plugin] Go analyzer that reports mutations of range loop value copies that have no effect.
+
 <!-- keep-sorted start -->
 [golangci-lint]: https://golangci-lint.run
 [golangci-plugin]: https://img.shields.io/badge/golangci-plugin-blue
