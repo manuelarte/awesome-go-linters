@@ -29,7 +29,7 @@ This is a list of Go linters not available in [golangci-lint] but that can be us
 
 ## Potential Errors
 
-- [go-by-value/deadmut](https://github.com/go-by-value/deadmut): ![Static Badge][golangci-plugin] Go analyzer that reports mutations of range loop value copies that have no effect
+- [go-by-value/deadmut](https://github.com/go-by-value/deadmut): ![Static Badge][golangci-plugin] Go analyzer that reports mutations of range loop value copies that have no effect.
 
 <!-- keep-sorted start -->
 [golangci-lint]: https://golangci-lint.run
